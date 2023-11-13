@@ -128,11 +128,10 @@
 <a name="to_be_arch">
 
 ### 1.6. Архитектура "To Be"
-![to_be_arch](img/WebAppArchitecture.jpg)
-<a name="architecture_analysis">
+<img src="/img/tritpo_uml.png" width="1100">
 
 ## Часть 2 - Анализ архитектуры  
-<a name="as_is_arch">
+<img src="/img/flights.png" width="1100">
 
 ### 2.1. Архитектура "As is"  
 
