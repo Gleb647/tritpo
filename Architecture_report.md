@@ -128,16 +128,13 @@
 <a name="to_be_arch">
 
 ### 1.6. Архитектура "To Be"
-<img src="/img/tritpo_uml.png" width="1100">
+<img src="/img/tritpo_uml.png" width="1000" height="1600">
 
 ## Часть 2 - Анализ архитектуры  
-<img src="/img/flights.png" width="1100">
 
 ### 2.1. Архитектура "As is"  
 
-![as_is_arch](img/ClassDiagram.jpg)
-
-<a name="comparison_and_refactoring">
+<img src="/img/flights.png" width="1100">
 
 ## Часть 3 - Сравнение и рефакторинг
 
