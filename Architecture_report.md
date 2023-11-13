@@ -132,9 +132,13 @@
 
 ## Часть 2 - Анализ архитектуры  
 
+<a name="as_is_arch">
+
 ### 2.1. Архитектура "As is"  
 
 <img src="/img/flights.png" width="1100">
+
+<a name="comparison_and_refactoring">
 
 ## Часть 3 - Сравнение и рефакторинг
 
