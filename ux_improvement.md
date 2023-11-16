@@ -23,3 +23,5 @@
 |До|После|
 |---|---|
 |<img src="/img/ref_before.png">|<img src="/img/reg_after.png">|
+|<img src="/img/poisk_before.png">|<img src="/img/poisk_after">|
+|<img src="/img/ref_before.png">|<img src="/img/reg_after.png">|
