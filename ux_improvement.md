@@ -20,5 +20,5 @@
 * Добавление возможности поиска направлений полётов
 
 ## Примеры проведенных улучшений
-<img src="/img/login_before.png">
-<img src="/img/login_after.png">
+<img src="/img/ref_before.png">
+<img src="/img/reg_after.png">
